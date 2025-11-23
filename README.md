@@ -11,7 +11,9 @@ An open-source, production-ready AI chatbot for automotive dealerships built wit
   <img src="https://www.trychroma.com/_next/static/media/chroma-wordmark.91ab668b.svg" height="28" title="ChromaDB"/>
 </p>
 
-![alt text](image.png)
+<video src="final_sub.mp4" controls width="600">
+  Your browser does not support the video tag.
+</video>
 
 
 ## 📋 Overview
